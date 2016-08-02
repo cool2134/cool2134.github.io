@@ -1,0 +1,204 @@
+#ball {
+  postion: relative;
+  border: solid 17px;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background: linear-gradient(red,red, red, red,red,red, black, black ,white ,white ,white, white, white, white);
+ animation: shake 5s infinite alternate;
+ }
+
+@keyframes shake{
+ 0% {
+    transform: rotate(0deg);
+    left: 0px;
+}
+25% {
+    transform: rotate(20deg);
+    left: 0px;
+}
+50% {
+    transform: rotate(0deg);
+    left: 500px;
+}
+55% {
+    transform: rotate(0deg);
+    left: 500px;
+}
+70% {
+    transform: rotate(0deg);
+    left: 500px;
+}
+100% {
+    transform: rotate(-360deg);
+    left: 0px;
+}
+}
+#button {
+  width: 30%;
+  height: 30%;
+  background: white;
+  position: relative;
+  top: 36%;
+  left: 33%;
+  border-radius: 100px;
+  border: solid black 9px;
+}
+#center{
+ width: 40%;
+ height: 40%;
+ border: solid black 9px;
+ position: relative; 
+ left: 22.5%;
+ top: 25%;
+ border-radius: 50%;
+ animation: recolor 1s infinite alternate;
+}
+@keyframes recolor{
+  0%{
+    background: white;
+  }
+  25%{
+    background: red;
+  }
+  50%{
+    background: white;
+  }
+  75%{
+    background: red;
+  }
+  100%{
+    background: white;
+  }
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+    
+  
